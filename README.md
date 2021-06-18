@@ -41,6 +41,7 @@
   <tr>
     <th>Database Mini Project</th>
     <th>Internship on Web Development</th>
+    <th>University Web Page</th>
   </tr>
   <tr>
     <td> 
@@ -53,6 +54,11 @@
         <li><a target="_blank" href="https://github.com/dheerajavadhanula/Internship-on-Web-Development"><i>Internship on Web Development</i></a></li>
 </a></li>
       </ul>
+    </td>
+        <td> 
+      <ul>
+        <li><a target="_blank" href = "https://github.com/dheerajavadhanula/University_WebPage_Using_HTML_CSS_JS_and_TomCat"</i>University Web Page</a></li>
+      </ul> 
     </td>
   </tr>
 </table>
