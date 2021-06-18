@@ -5,7 +5,7 @@
 <ul>
         <li>🔭 Web Development, Machine Learning and Cyber Security Enthusiast.</li>
         <li>💼 Currently persuing my third year of Bachelor's Degree in Computer Science Engineering at Gitam University.</li>
-        <li>🤔 Areas of Intrest: Web Development, Machine Learning, Cyber Security</li>
+        <li>🤔 Areas of Interest: Web Development, Machine Learning, Cyber Security</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/dheeraj-avadhanula">LinkedIn</a>.</li>
         <li>⚡ Fun fact: I am fitness freak.</li>
