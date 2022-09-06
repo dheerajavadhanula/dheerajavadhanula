@@ -4,7 +4,8 @@
 <br>
 <ul>
         <li>🔭 Web Development, Machine Learning and Cyber Security Enthusiast.</li>
-        <li>💼 Currently persuing my third year of Bachelor's Degree in Computer Science Engineering at Gitam University.</li>
+        <li>💼 Currently persuing my Master's Degree in Computer Science at University of North Texas.</li>
+        <li>💼 Pursued my Bachelor's Degree in Computer Science Engineering at Gitam University.</li>
         <li>🤔 Areas of Interest: Web Development, Machine Learning, Cyber Security</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/dheeraj-avadhanula">LinkedIn</a>.</li>
